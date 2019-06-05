@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Tendencias\NIW2\NIW2\bin\Debug\NIW2.exe.config
+C:\Users\USER\Desktop\Tendencias\NIW2\NIW2\bin\Debug\NIW2.exe
+C:\Users\USER\Desktop\Tendencias\NIW2\NIW2\bin\Debug\NIW2.pdb
+C:\Users\USER\Desktop\Tendencias\NIW2\NIW2\obj\Debug\NIW2.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Tendencias\NIW2\NIW2\obj\Debug\NIW2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Tendencias\NIW2\NIW2\obj\Debug\NIW2.exe
+C:\Users\USER\Desktop\Tendencias\NIW2\NIW2\obj\Debug\NIW2.pdb

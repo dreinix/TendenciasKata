@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\Tendencias\Kata 2\RomanNumII\RomanNumII\obj\Debug\RomanNumII.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Tendencias\Kata 2\RomanNumII\RomanNumII\obj\Debug\RomanNumII.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Tendencias\Kata 2\RomanNumII\RomanNumII\bin\Debug\RomanNumII.dll
+C:\Users\USER\Desktop\Tendencias\Kata 2\RomanNumII\RomanNumII\bin\Debug\RomanNumII.pdb
+C:\Users\USER\Desktop\Tendencias\Kata 2\RomanNumII\RomanNumII\obj\Debug\RomanNumII.dll
+C:\Users\USER\Desktop\Tendencias\Kata 2\RomanNumII\RomanNumII\obj\Debug\RomanNumII.pdb

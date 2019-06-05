@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Tendencias\NumberInWords\NumberInWords\obj\Debug\NumberInWords.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Tendencias\NumberInWords\NumberInWords\obj\Debug\NumberInWords.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Tendencias\NumberInWords\NumberInWords\bin\Debug\NumberInWords.exe.config
+C:\Users\USER\Desktop\Tendencias\NumberInWords\NumberInWords\bin\Debug\NumberInWords.exe
+C:\Users\USER\Desktop\Tendencias\NumberInWords\NumberInWords\bin\Debug\NumberInWords.pdb
+C:\Users\USER\Desktop\Tendencias\NumberInWords\NumberInWords\obj\Debug\NumberInWords.exe
+C:\Users\USER\Desktop\Tendencias\NumberInWords\NumberInWords\obj\Debug\NumberInWords.pdb

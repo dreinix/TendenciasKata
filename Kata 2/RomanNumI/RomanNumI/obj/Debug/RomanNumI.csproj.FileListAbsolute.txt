@@ -1,0 +1,5 @@
+C:\Users\USER\Desktop\Tendencias\Kata 2\RomanNumI\RomanNumI\bin\Debug\RomanNumI.dll
+C:\Users\USER\Desktop\Tendencias\Kata 2\RomanNumI\RomanNumI\bin\Debug\RomanNumI.pdb
+C:\Users\USER\Desktop\Tendencias\Kata 2\RomanNumI\RomanNumI\obj\Debug\RomanNumI.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Tendencias\Kata 2\RomanNumI\RomanNumI\obj\Debug\RomanNumI.dll
+C:\Users\USER\Desktop\Tendencias\Kata 2\RomanNumI\RomanNumI\obj\Debug\RomanNumI.pdb
